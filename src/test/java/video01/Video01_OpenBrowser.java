@@ -39,7 +39,6 @@ public class Video01_OpenBrowser {
 		driver.get("https://www.rediff.com/");
 		
 		Thread.sleep(2000);
-		
 		driver.quit();
 		
 	}
